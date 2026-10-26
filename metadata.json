@@ -1,0 +1,8 @@
+{
+  "name": "SmartLink AI",
+  "description": "Production-oriented full-stack URL shortener with real-time click analytics, strict API-owned business logic, and enterprise security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
